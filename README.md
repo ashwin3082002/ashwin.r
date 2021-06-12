@@ -1,3 +1,3 @@
 # ashwin.r
 
-This repository is to redirect to my new domain
+This is a temporary repository to redirect to my new website.
